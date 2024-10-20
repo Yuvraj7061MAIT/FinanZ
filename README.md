@@ -71,28 +71,23 @@ This is the backend API for a Personal Finance Tracker application built with **
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/personal-finance-tracker-api.git
-   cd personal-finance-tracker-api
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add your MongoDB connection string:
+2. Create a `.env` file in the root directory and add your MongoDB connection string:
    ```
    MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/databaseName
    ```
 
-4. Start the server:
+3. Start the server:
    ```bash
    npm run dev
    ```
 
-5. The server will be running on `http://localhost:3001`.
+4. The server will be running on `http://localhost:3001`.
 
 ## Usage
 
