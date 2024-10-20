@@ -1,5 +1,3 @@
-Sure! Here's an updated README file tailored to your Express server code for the personal finance tracker application:
-
 ```markdown
 # Personal Finance Tracker API
 
