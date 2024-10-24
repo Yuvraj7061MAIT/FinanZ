@@ -1,7 +1,3 @@
-Here’s the README in plain text format:
-
----
-
 # Personal Finance Tracker API
 
 The **Personal Finance Tracker API** is a backend application designed to help users track and manage their financial records. Built with **Node.js**, **Express**, and **MongoDB**, this API provides a simple and efficient way to create, read, update, and delete financial records.
